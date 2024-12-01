@@ -1,0 +1,6 @@
+{
+    "urls": ["https://example.com", "https://google.com"],
+    "check_interval": 60,
+    "alert_threshold": 500
+  }
+  

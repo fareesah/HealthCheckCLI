@@ -1,0 +1,8 @@
+venv/
+*.log
+__pychache__/
+^X
+exit
+
+quit
+

@@ -1,0 +1,4 @@
+{"url": "https://example.com", "status_code": 200, "latency": 0.074, "timestamp": "2024-12-01T01:37:12.699219"}
+{"url": "https://google.com", "status_code": 200, "latency": 0.172, "timestamp": "2024-12-01T01:37:12.699219"}
+{"url": "https://example.com", "status_code": 200, "latency": 0.073, "timestamp": "2024-12-01T01:38:06.588212"}
+{"url": "https://google.com", "status_code": 200, "latency": 0.144, "timestamp": "2024-12-01T01:38:06.588212"}
